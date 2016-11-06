@@ -1,0 +1,27 @@
+extends layout
+
+block content
+    #sample-container
+      #layout-one-fixed
+        #container
+          #header
+          |                     
+          #content
+            #omaTieto(style='display: none;') #{omaTieto}
+            |          
+            #comboAlue
+            |                         
+            #comboVuosi
+            |                           
+            #comboSukupuoli
+            |                         
+            #comboIka
+            |                         
+            div(style='overflow-x: scroll; width:100%; height: 450px;')
+              // orginal was 800x250 px
+              canvas#cvs(width='2400', height='400')
+                | [No canvas support]
+          |                     
+          #footer
+            .fb-like(data-send='true', data-width='450', data-show-faces='true')
+            |  Copyright &copy; Harjoitusty&ouml;, 2015

@@ -1,0 +1,15 @@
+{
+  "name": "RapalNodejs",
+  "version": "0.0.0",
+  "description": "RapalNodejs",
+  "main": "app.js",
+  "author": {
+    "name": "Tuppu",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}

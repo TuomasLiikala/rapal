@@ -1,0 +1,2 @@
+C:\Users\Tuppu\documents\visual studio 2013\Projects\RapalNodejs\RapalNodejs\obj\Debug\RapalNodejs.njsprojResolveAssemblyReference.cache
+C:\Users\Tuppu\documents\visual studio 2013\Projects\RapalNodejs\RapalNodejs\bin\Microsoft.NodejsTools.WebRole.dll
